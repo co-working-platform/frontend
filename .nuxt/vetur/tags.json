@@ -1,0 +1,77 @@
+{
+  "LanguageInput": {
+    "description": "Auto imported from components/LanguageInput.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "AdminComponent": {
+    "description": "Auto imported from components/admin-components/AdminComponent.vue"
+  },
+  "AdminComponentsCeoComponent": {
+    "description": "Auto imported from components/admin-components/CeoComponent.vue"
+  },
+  "EmployeeFolderComponent": {
+    "description": "Auto imported from components/employee-page-components/EmployeeFolderComponent.vue"
+  },
+  "EmployeeRegistrationAndListing": {
+    "description": "Auto imported from components/employee-page-components/EmployeeRegistrationAndListing.vue"
+  },
+  "FileDepartmentComponent": {
+    "description": "Auto imported from components/file-page-components/File-department-component.vue"
+  },
+  "FileDownloadComponent": {
+    "description": "Auto imported from components/file-page-components/File-download-component.vue"
+  },
+  "FileUploadComponent": {
+    "description": "Auto imported from components/file-page-components/File-upload-component.vue"
+  },
+  "FileUploadEmployee": {
+    "description": "Auto imported from components/file-page-components/FileUploadEmployee.vue"
+  },
+  "ProductPageComponentsCreateRecipeComponent": {
+    "description": "Auto imported from components/product-page-components/CreateRecipeComponent.vue"
+  },
+  "ProductPageComponentsProductsListing": {
+    "description": "Auto imported from components/product-page-components/ProductsListing.vue"
+  },
+  "ProductPageComponentsRecipeComponent": {
+    "description": "Auto imported from components/product-page-components/RecipeComponent.vue"
+  },
+  "PlanningCalendar": {
+    "description": "Auto imported from components/planning-components/PlanningCalendar.vue"
+  },
+  "PlanningCalendarDepartment": {
+    "description": "Auto imported from components/planning-components/PlanningCalendarDepartment.vue"
+  },
+  "PlanningCalendarReadOnly": {
+    "description": "Auto imported from components/planning-components/PlanningCalendarReadOnly.vue"
+  },
+  "FolderComponentsAdminBaseFolderComponent": {
+    "description": "Auto imported from components/folder-components/AdminBaseFolderComponent.vue"
+  },
+  "FolderComponentsAdminFolderComponent": {
+    "description": "Auto imported from components/folder-components/AdminFolderComponent.vue"
+  },
+  "UserAccount": {
+    "description": "Auto imported from components/user-page-components/UserAccount.vue"
+  },
+  "UserChanges": {
+    "description": "Auto imported from components/user-page-components/UserChanges.vue"
+  },
+  "UserContactUpdate": {
+    "description": "Auto imported from components/user-page-components/UserContactUpdate.vue"
+  },
+  "UserGenderUpdate": {
+    "description": "Auto imported from components/user-page-components/UserGenderUpdate.vue"
+  },
+  "UserNameUpdate": {
+    "description": "Auto imported from components/user-page-components/UserNameUpdate.vue"
+  },
+  "UserPhotoUpdate": {
+    "description": "Auto imported from components/user-page-components/UserPhotoUpdate.vue"
+  }
+}

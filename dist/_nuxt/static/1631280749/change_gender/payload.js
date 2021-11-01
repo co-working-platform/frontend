@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/change_gender", {data:[{}],fetch:{},mutations:[]});

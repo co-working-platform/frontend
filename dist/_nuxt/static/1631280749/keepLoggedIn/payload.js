@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/keepLoggedIn", {data:[{}],fetch:{},mutations:[]});
