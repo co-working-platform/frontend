@@ -20,6 +20,12 @@
   "EmployeeRegistrationAndListing": {
     "description": "Auto imported from components/employee-page-components/EmployeeRegistrationAndListing.vue"
   },
+  "FolderComponentsAdminBaseFolderComponent": {
+    "description": "Auto imported from components/folder-components/AdminBaseFolderComponent.vue"
+  },
+  "FolderComponentsAdminFolderComponent": {
+    "description": "Auto imported from components/folder-components/AdminFolderComponent.vue"
+  },
   "FileDepartmentComponent": {
     "description": "Auto imported from components/file-page-components/File-department-component.vue"
   },
@@ -32,15 +38,6 @@
   "FileUploadEmployee": {
     "description": "Auto imported from components/file-page-components/FileUploadEmployee.vue"
   },
-  "ProductPageComponentsCreateRecipeComponent": {
-    "description": "Auto imported from components/product-page-components/CreateRecipeComponent.vue"
-  },
-  "ProductPageComponentsProductsListing": {
-    "description": "Auto imported from components/product-page-components/ProductsListing.vue"
-  },
-  "ProductPageComponentsRecipeComponent": {
-    "description": "Auto imported from components/product-page-components/RecipeComponent.vue"
-  },
   "PlanningCalendar": {
     "description": "Auto imported from components/planning-components/PlanningCalendar.vue"
   },
@@ -50,11 +47,14 @@
   "PlanningCalendarReadOnly": {
     "description": "Auto imported from components/planning-components/PlanningCalendarReadOnly.vue"
   },
-  "FolderComponentsAdminBaseFolderComponent": {
-    "description": "Auto imported from components/folder-components/AdminBaseFolderComponent.vue"
+  "ProductPageComponentsCreateRecipeComponent": {
+    "description": "Auto imported from components/product-page-components/CreateRecipeComponent.vue"
   },
-  "FolderComponentsAdminFolderComponent": {
-    "description": "Auto imported from components/folder-components/AdminFolderComponent.vue"
+  "ProductPageComponentsProductsListing": {
+    "description": "Auto imported from components/product-page-components/ProductsListing.vue"
+  },
+  "ProductPageComponentsRecipeComponent": {
+    "description": "Auto imported from components/product-page-components/RecipeComponent.vue"
   },
   "UserAccount": {
     "description": "Auto imported from components/user-page-components/UserAccount.vue"

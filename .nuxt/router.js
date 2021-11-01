@@ -4,29 +4,29 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _65e50c35 = () => interopDefault(import('../pages/admin.vue' /* webpackChunkName: "pages/admin" */))
-const _5f7a429b = () => interopDefault(import('../pages/change_contact.vue' /* webpackChunkName: "pages/change_contact" */))
-const _57575896 = () => interopDefault(import('../pages/change_gender.vue' /* webpackChunkName: "pages/change_gender" */))
-const _680fa830 = () => interopDefault(import('../pages/change_password.vue' /* webpackChunkName: "pages/change_password" */))
-const _4de2a06d = () => interopDefault(import('../pages/change_photo.vue' /* webpackChunkName: "pages/change_photo" */))
-const _fb503e2a = () => interopDefault(import('../pages/change_username.vue' /* webpackChunkName: "pages/change_username" */))
-const _d07f532a = () => interopDefault(import('../pages/employees.vue' /* webpackChunkName: "pages/employees" */))
-const _172def5d = () => interopDefault(import('../pages/files.vue' /* webpackChunkName: "pages/files" */))
-const _577c23f6 = () => interopDefault(import('../pages/keepLoggedIn.vue' /* webpackChunkName: "pages/keepLoggedIn" */))
-const _03c54962 = () => interopDefault(import('../pages/login.vue' /* webpackChunkName: "pages/login" */))
-const _488712e7 = () => interopDefault(import('../pages/planning.vue' /* webpackChunkName: "pages/planning" */))
-const _0837bd24 = () => interopDefault(import('../pages/products.vue' /* webpackChunkName: "pages/products" */))
-const _313ecbe2 = () => interopDefault(import('../pages/profile.vue' /* webpackChunkName: "pages/profile" */))
-const _5895c72d = () => interopDefault(import('../pages/register.vue' /* webpackChunkName: "pages/register" */))
-const _df998d56 = () => interopDefault(import('../pages/user.vue' /* webpackChunkName: "pages/user" */))
-const _2febcc98 = () => interopDefault(import('../pages/basefolder/_id.vue' /* webpackChunkName: "pages/basefolder/_id" */))
-const _737f3d5f = () => interopDefault(import('../pages/createRecipe/_id.vue' /* webpackChunkName: "pages/createRecipe/_id" */))
-const _051ff5f1 = () => interopDefault(import('../pages/employeeFolder/_id.vue' /* webpackChunkName: "pages/employeeFolder/_id" */))
-const _e930c4ba = () => interopDefault(import('../pages/folder/_id.vue' /* webpackChunkName: "pages/folder/_id" */))
-const _6b95b6c3 = () => interopDefault(import('../pages/recipe/_id.vue' /* webpackChunkName: "pages/recipe/_id" */))
-const _5bdbaf5c = () => interopDefault(import('../pages/uploadFile/_id.vue' /* webpackChunkName: "pages/uploadFile/_id" */))
-const _d07573c0 = () => interopDefault(import('../pages/uploadFileEmployee/_id.vue' /* webpackChunkName: "pages/uploadFileEmployee/_id" */))
-const _3475b838 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _a142be0e = () => interopDefault(import('../pages/admin.vue' /* webpackChunkName: "pages/admin" */))
+const _2bc1ca57 = () => interopDefault(import('../pages/change_contact.vue' /* webpackChunkName: "pages/change_contact" */))
+const _2c61e95a = () => interopDefault(import('../pages/change_gender.vue' /* webpackChunkName: "pages/change_gender" */))
+const _24b917f4 = () => interopDefault(import('../pages/change_password.vue' /* webpackChunkName: "pages/change_password" */))
+const _5ebe31ae = () => interopDefault(import('../pages/change_photo.vue' /* webpackChunkName: "pages/change_photo" */))
+const _3f0150af = () => interopDefault(import('../pages/change_username.vue' /* webpackChunkName: "pages/change_username" */))
+const _a5cc2da2 = () => interopDefault(import('../pages/employees.vue' /* webpackChunkName: "pages/employees" */))
+const _60a78421 = () => interopDefault(import('../pages/files.vue' /* webpackChunkName: "pages/files" */))
+const _4b8b2a9c = () => interopDefault(import('../pages/keepLoggedIn.vue' /* webpackChunkName: "pages/keepLoggedIn" */))
+const _4796f013 = () => interopDefault(import('../pages/login.vue' /* webpackChunkName: "pages/login" */))
+const _b7e3d0ba = () => interopDefault(import('../pages/planning.vue' /* webpackChunkName: "pages/planning" */))
+const _576b262a = () => interopDefault(import('../pages/products.vue' /* webpackChunkName: "pages/products" */))
+const _8e6fe45a = () => interopDefault(import('../pages/profile.vue' /* webpackChunkName: "pages/profile" */))
+const _97c6682e = () => interopDefault(import('../pages/register.vue' /* webpackChunkName: "pages/register" */))
+const _dadc07de = () => interopDefault(import('../pages/user.vue' /* webpackChunkName: "pages/user" */))
+const _975cbd20 = () => interopDefault(import('../pages/basefolder/_id.vue' /* webpackChunkName: "pages/basefolder/_id" */))
+const _4c03c61b = () => interopDefault(import('../pages/createRecipe/_id.vue' /* webpackChunkName: "pages/createRecipe/_id" */))
+const _62b580a6 = () => interopDefault(import('../pages/employeeFolder/_id.vue' /* webpackChunkName: "pages/employeeFolder/_id" */))
+const _2140635f = () => interopDefault(import('../pages/folder/_id.vue' /* webpackChunkName: "pages/folder/_id" */))
+const _016e7c7f = () => interopDefault(import('../pages/recipe/_id.vue' /* webpackChunkName: "pages/recipe/_id" */))
+const _c34c9fe4 = () => interopDefault(import('../pages/uploadFile/_id.vue' /* webpackChunkName: "pages/uploadFile/_id" */))
+const _25d751dc = () => interopDefault(import('../pages/uploadFileEmployee/_id.vue' /* webpackChunkName: "pages/uploadFileEmployee/_id" */))
+const _7def4cfc = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -41,95 +41,95 @@ export const routerOptions = {
 
   routes: [{
     path: "/admin",
-    component: _65e50c35,
+    component: _a142be0e,
     name: "admin"
   }, {
     path: "/change_contact",
-    component: _5f7a429b,
+    component: _2bc1ca57,
     name: "change_contact"
   }, {
     path: "/change_gender",
-    component: _57575896,
+    component: _2c61e95a,
     name: "change_gender"
   }, {
     path: "/change_password",
-    component: _680fa830,
+    component: _24b917f4,
     name: "change_password"
   }, {
     path: "/change_photo",
-    component: _4de2a06d,
+    component: _5ebe31ae,
     name: "change_photo"
   }, {
     path: "/change_username",
-    component: _fb503e2a,
+    component: _3f0150af,
     name: "change_username"
   }, {
     path: "/employees",
-    component: _d07f532a,
+    component: _a5cc2da2,
     name: "employees"
   }, {
     path: "/files",
-    component: _172def5d,
+    component: _60a78421,
     name: "files"
   }, {
     path: "/keepLoggedIn",
-    component: _577c23f6,
+    component: _4b8b2a9c,
     name: "keepLoggedIn"
   }, {
     path: "/login",
-    component: _03c54962,
+    component: _4796f013,
     name: "login"
   }, {
     path: "/planning",
-    component: _488712e7,
+    component: _b7e3d0ba,
     name: "planning"
   }, {
     path: "/products",
-    component: _0837bd24,
+    component: _576b262a,
     name: "products"
   }, {
     path: "/profile",
-    component: _313ecbe2,
+    component: _8e6fe45a,
     name: "profile"
   }, {
     path: "/register",
-    component: _5895c72d,
+    component: _97c6682e,
     name: "register"
   }, {
     path: "/user",
-    component: _df998d56,
+    component: _dadc07de,
     name: "user"
   }, {
     path: "/basefolder/:id?",
-    component: _2febcc98,
+    component: _975cbd20,
     name: "basefolder-id"
   }, {
     path: "/createRecipe/:id?",
-    component: _737f3d5f,
+    component: _4c03c61b,
     name: "createRecipe-id"
   }, {
     path: "/employeeFolder/:id?",
-    component: _051ff5f1,
+    component: _62b580a6,
     name: "employeeFolder-id"
   }, {
     path: "/folder/:id?",
-    component: _e930c4ba,
+    component: _2140635f,
     name: "folder-id"
   }, {
     path: "/recipe/:id?",
-    component: _6b95b6c3,
+    component: _016e7c7f,
     name: "recipe-id"
   }, {
     path: "/uploadFile/:id?",
-    component: _5bdbaf5c,
+    component: _c34c9fe4,
     name: "uploadFile-id"
   }, {
     path: "/uploadFileEmployee/:id?",
-    component: _d07573c0,
+    component: _25d751dc,
     name: "uploadFileEmployee-id"
   }, {
     path: "/",
-    component: _3475b838,
+    component: _7def4cfc,
     name: "index"
   }],
 

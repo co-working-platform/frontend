@@ -2,162 +2,139 @@
   {
     "name": "admin",
     "path": "/admin",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/admin.vue",
-    "chunkName": "pages/admin",
-    "_name": "_65e50c35"
+    "component": "/Users/nilsachy/frontend/pages/admin.vue",
+    "chunkName": "pages/admin"
   },
   {
     "name": "change_contact",
     "path": "/change_contact",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/change_contact.vue",
-    "chunkName": "pages/change_contact",
-    "_name": "_5f7a429b"
+    "component": "/Users/nilsachy/frontend/pages/change_contact.vue",
+    "chunkName": "pages/change_contact"
   },
   {
     "name": "change_gender",
     "path": "/change_gender",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/change_gender.vue",
-    "chunkName": "pages/change_gender",
-    "_name": "_57575896"
+    "component": "/Users/nilsachy/frontend/pages/change_gender.vue",
+    "chunkName": "pages/change_gender"
   },
   {
     "name": "change_password",
     "path": "/change_password",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/change_password.vue",
-    "chunkName": "pages/change_password",
-    "_name": "_680fa830"
+    "component": "/Users/nilsachy/frontend/pages/change_password.vue",
+    "chunkName": "pages/change_password"
   },
   {
     "name": "change_photo",
     "path": "/change_photo",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/change_photo.vue",
-    "chunkName": "pages/change_photo",
-    "_name": "_4de2a06d"
+    "component": "/Users/nilsachy/frontend/pages/change_photo.vue",
+    "chunkName": "pages/change_photo"
   },
   {
     "name": "change_username",
     "path": "/change_username",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/change_username.vue",
-    "chunkName": "pages/change_username",
-    "_name": "_fb503e2a"
+    "component": "/Users/nilsachy/frontend/pages/change_username.vue",
+    "chunkName": "pages/change_username"
   },
   {
     "name": "employees",
     "path": "/employees",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/employees.vue",
-    "chunkName": "pages/employees",
-    "_name": "_d07f532a"
+    "component": "/Users/nilsachy/frontend/pages/employees.vue",
+    "chunkName": "pages/employees"
   },
   {
     "name": "files",
     "path": "/files",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/files.vue",
-    "chunkName": "pages/files",
-    "_name": "_172def5d"
+    "component": "/Users/nilsachy/frontend/pages/files.vue",
+    "chunkName": "pages/files"
   },
   {
     "name": "keepLoggedIn",
     "path": "/keepLoggedIn",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/keepLoggedIn.vue",
-    "chunkName": "pages/keepLoggedIn",
-    "_name": "_577c23f6"
+    "component": "/Users/nilsachy/frontend/pages/keepLoggedIn.vue",
+    "chunkName": "pages/keepLoggedIn"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/login.vue",
-    "chunkName": "pages/login",
-    "_name": "_03c54962"
+    "component": "/Users/nilsachy/frontend/pages/login.vue",
+    "chunkName": "pages/login"
   },
   {
     "name": "planning",
     "path": "/planning",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/planning.vue",
-    "chunkName": "pages/planning",
-    "_name": "_488712e7"
+    "component": "/Users/nilsachy/frontend/pages/planning.vue",
+    "chunkName": "pages/planning"
   },
   {
     "name": "products",
     "path": "/products",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/products.vue",
-    "chunkName": "pages/products",
-    "_name": "_0837bd24"
+    "component": "/Users/nilsachy/frontend/pages/products.vue",
+    "chunkName": "pages/products"
   },
   {
     "name": "profile",
     "path": "/profile",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/profile.vue",
-    "chunkName": "pages/profile",
-    "_name": "_313ecbe2"
+    "component": "/Users/nilsachy/frontend/pages/profile.vue",
+    "chunkName": "pages/profile"
   },
   {
     "name": "register",
     "path": "/register",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/register.vue",
-    "chunkName": "pages/register",
-    "_name": "_5895c72d"
+    "component": "/Users/nilsachy/frontend/pages/register.vue",
+    "chunkName": "pages/register"
   },
   {
     "name": "user",
     "path": "/user",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/user.vue",
-    "chunkName": "pages/user",
-    "_name": "_df998d56"
+    "component": "/Users/nilsachy/frontend/pages/user.vue",
+    "chunkName": "pages/user"
   },
   {
     "name": "basefolder-id",
     "path": "/basefolder/:id?",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/basefolder/_id.vue",
-    "chunkName": "pages/basefolder/_id",
-    "_name": "_2febcc98"
+    "component": "/Users/nilsachy/frontend/pages/basefolder/_id.vue",
+    "chunkName": "pages/basefolder/_id"
   },
   {
     "name": "createRecipe-id",
     "path": "/createRecipe/:id?",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/createRecipe/_id.vue",
-    "chunkName": "pages/createRecipe/_id",
-    "_name": "_737f3d5f"
+    "component": "/Users/nilsachy/frontend/pages/createRecipe/_id.vue",
+    "chunkName": "pages/createRecipe/_id"
   },
   {
     "name": "employeeFolder-id",
     "path": "/employeeFolder/:id?",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/employeeFolder/_id.vue",
-    "chunkName": "pages/employeeFolder/_id",
-    "_name": "_051ff5f1"
+    "component": "/Users/nilsachy/frontend/pages/employeeFolder/_id.vue",
+    "chunkName": "pages/employeeFolder/_id"
   },
   {
     "name": "folder-id",
     "path": "/folder/:id?",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/folder/_id.vue",
-    "chunkName": "pages/folder/_id",
-    "_name": "_e930c4ba"
+    "component": "/Users/nilsachy/frontend/pages/folder/_id.vue",
+    "chunkName": "pages/folder/_id"
   },
   {
     "name": "recipe-id",
     "path": "/recipe/:id?",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/recipe/_id.vue",
-    "chunkName": "pages/recipe/_id",
-    "_name": "_6b95b6c3"
+    "component": "/Users/nilsachy/frontend/pages/recipe/_id.vue",
+    "chunkName": "pages/recipe/_id"
   },
   {
     "name": "uploadFile-id",
     "path": "/uploadFile/:id?",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/uploadFile/_id.vue",
-    "chunkName": "pages/uploadFile/_id",
-    "_name": "_5bdbaf5c"
+    "component": "/Users/nilsachy/frontend/pages/uploadFile/_id.vue",
+    "chunkName": "pages/uploadFile/_id"
   },
   {
     "name": "uploadFileEmployee-id",
     "path": "/uploadFileEmployee/:id?",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/uploadFileEmployee/_id.vue",
-    "chunkName": "pages/uploadFileEmployee/_id",
-    "_name": "_d07573c0"
+    "component": "/Users/nilsachy/frontend/pages/uploadFileEmployee/_id.vue",
+    "chunkName": "pages/uploadFileEmployee/_id"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/nilsachy/co-working-platform/co-working-platform-frontend/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_3475b838"
+    "component": "/Users/nilsachy/frontend/pages/index.vue",
+    "chunkName": "pages/index"
   }
 ]
