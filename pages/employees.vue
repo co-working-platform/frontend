@@ -8,8 +8,8 @@
   </v-container>
 </template>
 <script>
-import EmployeeRegistrationAndListing from '@/components/employee-page-components/EmployeeRegistrationAndListing'
 import axios from 'axios'
+import EmployeeRegistrationAndListing from '@/components/employee-page-components/EmployeeRegistrationAndListing'
 export default {
   components: { EmployeeRegistrationAndListing },
   data () {
